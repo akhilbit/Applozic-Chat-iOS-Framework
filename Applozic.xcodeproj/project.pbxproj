@@ -332,6 +332,7 @@
 		8B7864221FE2329F004B9E64 /* MessageReplyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B7864201FE2329E004B9E64 /* MessageReplyView.m */; };
 		8B7864231FE2329F004B9E64 /* MessageReplyView.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B7864211FE2329E004B9E64 /* MessageReplyView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8B7864301FE23613004B9E64 /* AppLozic.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8B7864281FE23613004B9E64 /* AppLozic.xcdatamodeld */; };
+		8BC582F7DA51372132E29E02 /* libPods-Applozic.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AEBA14DD11A2048A9F4200EB /* libPods-Applozic.a */; };
 		C70273CB1DED445E00BA2C8A /* ALUserDetailListFeed.h in Headers */ = {isa = PBXBuildFile; fileRef = C70273C91DED445E00BA2C8A /* ALUserDetailListFeed.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C70273CC1DED445E00BA2C8A /* ALUserDetailListFeed.m in Sources */ = {isa = PBXBuildFile; fileRef = C70273CA1DED445E00BA2C8A /* ALUserDetailListFeed.m */; };
 		C70983071E0177E900FC93A1 /* ALMessageServiceWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = C70983051E0177E900FC93A1 /* ALMessageServiceWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -349,6 +350,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2700A0AF0EE014869DE7F254 /* Pods-Applozic.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Applozic.release.xcconfig"; path = "Pods/Target Support Files/Pods-Applozic/Pods-Applozic.release.xcconfig"; sourceTree = "<group>"; };
 		2932B9F11C7C875F0017911D /* ALGroupDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALGroupDetailViewController.h; sourceTree = "<group>"; };
 		2932B9F21C7C875F0017911D /* ALGroupDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ALGroupDetailViewController.m; sourceTree = "<group>"; };
 		2934460F1D4F426F007BD1B4 /* ALImageActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALImageActivity.h; sourceTree = "<group>"; };
@@ -414,6 +416,7 @@
 		46ABAAD61DA4054000EC48AC /* ContactsUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ContactsUI.framework; path = System/Library/Frameworks/ContactsUI.framework; sourceTree = SDKROOT; };
 		46B2589E1E5B03300078BBA5 /* ALChannelMsgCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ALChannelMsgCell.h; path = Applozic/ALChannelMsgCell.h; sourceTree = "<group>"; };
 		46B2589F1E5B03300078BBA5 /* ALChannelMsgCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ALChannelMsgCell.m; path = Applozic/ALChannelMsgCell.m; sourceTree = "<group>"; };
+		6BC9257CFFA2947A568B81BA /* Pods-Applozic.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Applozic.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Applozic/Pods-Applozic.debug.xcconfig"; sourceTree = "<group>"; };
 		6D0877071D01B0F900DB491A /* UIView+Toast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Toast.h"; sourceTree = "<group>"; };
 		6D0877091D01B0FE00DB491A /* UIView+Toast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Toast.m"; sourceTree = "<group>"; };
 		6D0D10781D4CD7B6009853FB /* ALImagePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ALImagePickerController.h; sourceTree = "<group>"; };
@@ -681,6 +684,7 @@
 		8B78642D1FE23613004B9E64 /* AppLozic 6.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "AppLozic 6.xcdatamodel"; sourceTree = "<group>"; };
 		8B78642E1FE23613004B9E64 /* AppLozic 7.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "AppLozic 7.xcdatamodel"; sourceTree = "<group>"; };
 		8B78642F1FE23613004B9E64 /* AppLozic.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AppLozic.xcdatamodel; sourceTree = "<group>"; };
+		AEBA14DD11A2048A9F4200EB /* libPods-Applozic.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Applozic.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C70273C91DED445E00BA2C8A /* ALUserDetailListFeed.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ALUserDetailListFeed.h; path = Applozic/ALUserDetailListFeed.h; sourceTree = "<group>"; };
 		C70273CA1DED445E00BA2C8A /* ALUserDetailListFeed.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ALUserDetailListFeed.m; path = Applozic/ALUserDetailListFeed.m; sourceTree = "<group>"; };
 		C70983051E0177E900FC93A1 /* ALMessageServiceWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ALMessageServiceWrapper.h; path = Applozic/ALMessageServiceWrapper.h; sourceTree = "<group>"; };
@@ -710,12 +714,22 @@
 				6D3A4DF71C75ED330067A4C8 /* AVFoundation.framework in Frameworks */,
 				6D5439DC1C19B8D600C686BC /* SystemConfiguration.framework in Frameworks */,
 				6D88E1DA1BC8046500364C5B /* CoreLocation.framework in Frameworks */,
+				8BC582F7DA51372132E29E02 /* libPods-Applozic.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1D00B675B803582CD6A06B80 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6BC9257CFFA2947A568B81BA /* Pods-Applozic.debug.xcconfig */,
+				2700A0AF0EE014869DE7F254 /* Pods-Applozic.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		2934460E1D4F4229007BD1B4 /* Share Image */ = {
 			isa = PBXGroup;
 			children = (
@@ -784,6 +798,7 @@
 			children = (
 				46ABAAD51DA4054000EC48AC /* Contacts.framework */,
 				46ABAAD61DA4054000EC48AC /* ContactsUI.framework */,
+				AEBA14DD11A2048A9F4200EB /* libPods-Applozic.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -854,6 +869,7 @@
 				6D6DF07F1BC535C800EBA00F /* Applozic */,
 				6D6DF07E1BC535C800EBA00F /* Products */,
 				46ABAAD41DA4054000EC48AC /* Frameworks */,
+				1D00B675B803582CD6A06B80 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1567,11 +1583,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6D6DF0851BC535C800EBA00F /* Build configuration list for PBXNativeTarget "Applozic" */;
 			buildPhases = (
+				E0D80EAD5554081A5E2EE20E /* [CP] Check Pods Manifest.lock */,
 				6D6DF0781BC535C800EBA00F /* Sources */,
 				6D6DF0791BC535C800EBA00F /* Frameworks */,
 				6D6DF07A1BC535C800EBA00F /* Headers */,
 				6D6DF07B1BC535C800EBA00F /* Resources */,
 				6DAA09DB1BE4AD8800CBF133 /* Run Script */,
+				B4A886789517D70C37FF6CE7 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1647,6 +1665,39 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "";
+			showEnvVarsInLog = 0;
+		};
+		B4A886789517D70C37FF6CE7 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Applozic/Pods-Applozic-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E0D80EAD5554081A5E2EE20E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Applozic-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1930,6 +1981,7 @@
 		};
 		6D6DF0861BC535C800EBA00F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BC9257CFFA2947A568B81BA /* Pods-Applozic.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1962,6 +2014,7 @@
 		};
 		6D6DF0871BC535C800EBA00F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2700A0AF0EE014869DE7F254 /* Pods-Applozic.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
